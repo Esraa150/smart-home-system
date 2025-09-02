@@ -1,0 +1,4 @@
+/Debug/
+/Release/
+*.hex
+*.elf
